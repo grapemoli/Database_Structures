@@ -17,7 +17,7 @@ The user is printed the unsorted array. Then, the user is printed the binary tre
 
 Then, the user is printed the k-th smallest value. For example, if the user inputted the k-value to be 1, then the user is returned the smallest value. If the user inputs the k-value as 3, then the user is returned the 3-rd smallest value.
 
-## Steps:
+### User Flow
 **1.1 User Inputs** <br>
     1.1.1 The user will be asked if they would like the default data set. <br>
         1.1.1.1 'yes'<br>
