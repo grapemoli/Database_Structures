@@ -1,8 +1,8 @@
 # K-th Smallest Number
-### Purpose:
+### Description
 This program will return the k-th smallest value in a dataset as quickly as possible. To lower the speed as much as possible, I demonstrated understanding of Binary Search Trees and recursion.
 
-### User Inputs:
+### User Inputs
 For ease, please run this program using the makefile command 'make run.'
 
 The user will first be asked if they would like to use the default data set. The user must type 'yes' or 'no' (case sensitive).
@@ -12,7 +12,7 @@ The user will first be asked if they would like to use the default data set. The
 
 Regardless of 'yes' or 'no,' user is asked to input a k. The user must input an integer between 1 and the size of the dataset. The limit shall be printed for the user's convienence.
 
-### User Outputs:
+### User Outputs
 The user is printed the unsorted array. Then, the user is printed the binary tree using an in-order traversal (values will appear to be printed in numeric order).
 
 Then, the user is printed the k-th smallest value. For example, if the user inputted the k-value to be 1, then the user is returned the smallest value. If the user inputs the k-value as 3, then the user is returned the 3-rd smallest value.
