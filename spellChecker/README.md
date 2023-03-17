@@ -1,5 +1,4 @@
-# Spell-Checker & Word Suggester
-
+# Spell-Checker & Word Suggester :memo:
 ### Description
 I hash a set of two hundred into a table (chaining). The table is used to recursively find a similar/perfect match to what the user inputs.
 
