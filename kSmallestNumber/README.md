@@ -1,4 +1,5 @@
-# K-th Smallest Number :mag_right: 
+# K-th Smallest Number 
+:mag_right: Find the k-smallest number in a randomly generated dataset.
 ### Description
 This program will return the k-th smallest value in a dataset as quickly as possible. To lower the speed as much as possible, I demonstrated understanding of Binary Search Trees and recursion.
 
