@@ -1,5 +1,5 @@
 # CSCI362: Database Structures & Algorithms
-:file-divider:Course Projects for Advanced Database Programming in Oracle
+:card_index_divider:Course Projects for Advanced Database Programming in Oracle
 
 ### Description 
 While many structures and algorithms were taught in this staple course, this repository aims to show a snippet of the progression of growth in this class. For that reason, four of the seven assignments are posted. 
