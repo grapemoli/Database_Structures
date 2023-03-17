@@ -1,4 +1,5 @@
-# N-Queens :crown:
+# N-Queens 
+:crown: The N-Queens problem, solved using a stack.
 ### Description
 The NQueens problem: let a user define an integer n. Then, place n queens on an n-by-n board such that no queen sits in a position that directly attacks another queen.
 
