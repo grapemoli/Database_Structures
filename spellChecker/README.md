@@ -1,4 +1,5 @@
-# Spell-Checker & Word Suggester :memo:
+# Spell-Checker & Word Suggester 
+:memo: A spell-checker using hashing techniques.
 ### Description
 I hash a set of two hundred into a table (chaining). The table is used to recursively find a similar/perfect match to what the user inputs.
 
